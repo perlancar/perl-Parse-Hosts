@@ -24,7 +24,6 @@ Optional. Will attempt to read `/etc/hosts` from filesystem if not specified.
 
 _
             schema => 'str*',
-            cmdline_src => 'stdin',
         },
     },
     examples => [
