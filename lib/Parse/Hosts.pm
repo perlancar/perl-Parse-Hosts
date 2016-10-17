@@ -64,3 +64,5 @@ sub parse_hosts {
 
 
 =head1 SEE ALSO
+
+L<parse-hosts> from L<App::ParseHosts>, CLI script.
